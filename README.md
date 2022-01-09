@@ -1,8 +1,8 @@
-# Project Title
+# Material Dashboard
 
 A simple responsive dashboard template using react, material-ui and apex charts
 
-![Macbook Air - Dark Background](https://user-images.githubusercontent.com/33036554/148695245-a7de3f5f-8ade-46ce-b2ca-ba9f8fc18f64.jpg)
+![Material Dashboard](https://user-images.githubusercontent.com/33036554/148695245-a7de3f5f-8ade-46ce-b2ca-ba9f8fc18f64.jpg)
 
 ## Run Locally
 
